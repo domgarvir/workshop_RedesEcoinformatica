@@ -1,0 +1,349 @@
+from,to,weight
+Phytoplankton,Zooplankton,22.97171
+Phytoplankton,Scrobicularia plana,4.40037
+Phytoplankton,Cerastoderma edule,18.79548
+Phytoplankton,Modiolus,0.033
+Phytoplankton,Microalgae and detri,1.76904
+Phytoplankton,Detritus,14.1904
+Enteromorpha sp,Melita palmata,0.393196
+Enteromorpha sp,Ampithoe ferox,0.684796
+Enteromorpha sp,Gibulla,0.063171
+Enteromorpha sp,Littorina,3.733044
+Enteromorpha sp,Idotea chelipes,0.076
+Enteromorpha sp,Carcinus maenas,0.917436
+Enteromorpha sp,Crangon crangon,0.229992
+Enteromorpha sp,Detritus,0.022365
+Ulva lactuca,Melita palmata,0.035388
+Ulva lactuca,Ampithoe ferox,0.061632
+Ulva lactuca,Gibulla,0.012634
+Ulva lactuca,Littorina,0.746609
+Ulva lactuca,Idotea chelipes,0.0038
+Ulva lactuca,Carcinus maenas,0.190644
+Ulva lactuca,Crangon crangon,0.019827
+Ulva lactuca,Detritus,0.047567
+Zostera,Idotea chelipes,0.228
+Zostera,Detritus,511.8633
+Epiphytes,Hydrobia ulvae,177.9375
+Epiphytes,Melita palmata,2.752371
+Epiphytes,Ampithoe ferox,4.793575
+Epiphytes,Gibulla,0.347439
+Epiphytes,Littorina,20.53174
+Epiphytes,Idotea chelipes,0.114
+Epiphytes,Sphaeroma hookeri,0.0095
+Epiphytes,Detritus,1178.614
+Gracilaria,Idotea chelipes,0.19
+Gracilaria,Carcinus maenas,1.312617
+Gracilaria,Crangon crangon,0.067411
+Gracilaria,Detritus,46.67297
+Zooplankton,Zooplankton,2.552413
+Zooplankton,Carcinus maenas,0.10473
+Zooplankton,Crangon crangon,0.186373
+Zooplankton,Microalgae and detri,1.76904
+Zooplankton,Zooplankton consumer,2.493664
+Zooplankton,Macrofauna predators,0.163795
+Zooplankton,Trigla lucerna,0.009715
+Zooplankton,Pomatoschistus minut,0.224365
+Zooplankton,Detritus,10.3628
+Hydrobia ulvae,Other predatory inve,0.359053
+Hydrobia ulvae,Nereis diversicolor,9.823225
+Hydrobia ulvae,Carcinus maenas,4.573213
+Hydrobia ulvae,Crangon crangon,0.007931
+Hydrobia ulvae,Lumbrineris impatien,0.001814
+Hydrobia ulvae,Diopatra neapolitana,0.056597
+Hydrobia ulvae,Endofauna consumers,0.016166
+Hydrobia ulvae,Macrofauna predators,0.015166
+Hydrobia ulvae,Trigla lucerna,0.002211
+Hydrobia ulvae,Larus ridibundus,1.3e-05
+Hydrobia ulvae,Kentish Plover,0.00014
+Hydrobia ulvae,Ringed Plover,6e-05
+Hydrobia ulvae,Grey Plover,5.9e-05
+Hydrobia ulvae,Dunlin,7.7e-05
+Hydrobia ulvae,Detritus,198.6693
+Melita palmata,Nephtys,0.004782
+Melita palmata,Other predatory inve,0.304283
+Melita palmata,Carcinus maenas,0.20946
+Melita palmata,Crangon crangon,0.166546
+Melita palmata,Lumbrineris impatien,0.001823
+Melita palmata,Diopatra neapolitana,0.006289
+Melita palmata,Macrofauna predators,0.045499
+Melita palmata,Pomatoschistus minut,0.008313
+Melita palmata,Kentish Plover,4e-06
+Melita palmata,Ringed Plover,1.3e-05
+Melita palmata,Grey Plover,3e-05
+Melita palmata,Dunlin,3e-05
+Melita palmata,Detritus,1.612103
+Ampithoe ferox,Nephtys,0.007173
+Ampithoe ferox,Other predatory inve,0.572051
+Ampithoe ferox,Nereis diversicolor,0.024255
+Ampithoe ferox,Carcinus maenas,0.27928
+Ampithoe ferox,Crangon crangon,0.31723
+Ampithoe ferox,Lumbrineris impatien,0.001823
+Ampithoe ferox,Diopatra neapolitana,0.006289
+Ampithoe ferox,Macrofauna predators,0.078864
+Ampithoe ferox,Trigla lucerna,1e-05
+Ampithoe ferox,Pomatoschistus minut,0.014007
+Ampithoe ferox,Kentish Plover,6e-06
+Ampithoe ferox,Ringed Plover,2.3e-05
+Ampithoe ferox,Grey Plover,5.1e-05
+Ampithoe ferox,Dunlin,5.1e-05
+Ampithoe ferox,Detritus,2.807665
+Gibulla,Other predatory inve,0.006086
+Gibulla,Nereis diversicolor,0.024918
+Gibulla,Carcinus maenas,0.03491
+Gibulla,Crangon crangon,0.003965
+Gibulla,Lumbrineris impatien,0.021772
+Gibulla,Endofauna consumers,0.000557
+Gibulla,Trigla lucerna,3e-06
+Gibulla,Detritus,0.286814
+Littorina,Other predatory inve,0.060857
+Littorina,Nereis diversicolor,0.436588
+Littorina,Carcinus maenas,0.10473
+Littorina,Crangon crangon,0.003965
+Littorina,Lumbrineris impatien,0.003629
+Littorina,Endofauna consumers,0.001858
+Littorina,Trigla lucerna,0.0001
+Littorina,Detritus,14.32045
+Cyathura carinata,Other predatory inve,0.060857
+Cyathura carinata,Crangon crangon,0.019827
+Cyathura carinata,Lumbrineris impatien,0.015603
+Cyathura carinata,Macrofauna predators,0.015166
+Cyathura carinata,Trigla lucerna,0.00014
+Cyathura carinata,Detritus,0.229447
+Scrobicularia plana,Nephtys,0.02391
+Scrobicularia plana,Other predatory inve,0.359053
+Scrobicularia plana,Nereis diversicolor,0.582117
+Scrobicularia plana,Carcinus maenas,3.491003
+Scrobicularia plana,Crangon crangon,0.31723
+Scrobicularia plana,Lumbrineris impatien,0.054612
+Scrobicularia plana,Diopatra neapolitana,0.006289
+Scrobicularia plana,Endofauna consumers,0.004088
+Scrobicularia plana,Macrofauna predators,0.054598
+Scrobicularia plana,Trigla lucerna,0.00084
+Scrobicularia plana,Larus ridibundus,0.000461
+Scrobicularia plana,Larus fuscus,1.4e-05
+Scrobicularia plana,Kentish Plover,1.4e-05
+Scrobicularia plana,Ringed Plover,1.2e-05
+Scrobicularia plana,Grey Plover,2.4e-05
+Scrobicularia plana,Dunlin,3e-06
+Scrobicularia plana,Detritus,12.70721
+Cerastoderma edule,Nephtys,0.062167
+Cerastoderma edule,Other predatory inve,0.499023
+Cerastoderma edule,Nereis diversicolor,0.921711
+Cerastoderma edule,Carcinus maenas,5.550694
+Cerastoderma edule,Crangon crangon,0.491707
+Cerastoderma edule,Lumbrineris impatien,0.021845
+Cerastoderma edule,Diopatra neapolitana,0.006289
+Cerastoderma edule,Endofauna consumers,0.009848
+Cerastoderma edule,Macrofauna predators,0.090997
+Cerastoderma edule,Trigla lucerna,0.001424
+Cerastoderma edule,Larus ridibundus,3e-05
+Cerastoderma edule,Larus fuscus,9e-06
+Cerastoderma edule,Kentish Plover,2.3e-05
+Cerastoderma edule,Ringed Plover,2.4e-05
+Cerastoderma edule,Dunlin,1e-06
+Cerastoderma edule,Detritus,67.52611
+Modiolus,Nephtys,0.001196
+Modiolus,Nereis diversicolor,0.009702
+Modiolus,Crangon crangon,0.003965
+Modiolus,Lumbrineris impatien,0.00156
+Modiolus,Endofauna consumers,0.000186
+Modiolus,Macrofauna predators,0.003033
+Modiolus,Detritus,0.112358
+Amage adspersa,Nephtys,0.001196
+Amage adspersa,Other predatory inve,0.002434
+Amage adspersa,Crangon crangon,0.003965
+Amage adspersa,Endofauna consumers,0.000557
+Amage adspersa,Kentish Plover,3e-06
+Amage adspersa,Detritus,0.047044
+Capitella capitata,Nephtys,0.000478
+Capitella capitata,Carcinus maenas,0.006982
+Capitella capitata,Crangon crangon,0.000793
+Capitella capitata,Lumbrineris impatien,0.003121
+Capitella capitata,Endofauna consumers,0.000372
+Capitella capitata,Larus ridibundus,3e-05
+Capitella capitata,Detritus,0.031424
+Heteromastus filifor,Nephtys,0.181719
+Heteromastus filifor,Other predatory inve,0.821563
+Heteromastus filifor,Idotea chelipes,0.00152
+Heteromastus filifor,Nereis diversicolor,0.09702
+Heteromastus filifor,Carcinus maenas,0.17455
+Heteromastus filifor,Crangon crangon,0.027758
+Heteromastus filifor,Lumbrineris impatien,0.00156
+Heteromastus filifor,Endofauna consumers,0.026014
+Heteromastus filifor,Macrofauna predators,0.030332
+Heteromastus filifor,Kentish Plover,2e-06
+Heteromastus filifor,Ringed Plover,8e-06
+Heteromastus filifor,Grey Plover,7e-06
+Heteromastus filifor,Dunlin,6e-06
+Heteromastus filifor,Detritus,3.029941
+Oligochaeta,Other predatory inve,0.18257
+Oligochaeta,Idotea chelipes,0.00152
+Oligochaeta,Nereis diversicolor,0.024255
+Oligochaeta,Carcinus maenas,0.06982
+Oligochaeta,Crangon crangon,0.027758
+Oligochaeta,Lumbrineris impatien,0.007802
+Oligochaeta,Endofauna consumers,0.000186
+Oligochaeta,Ringed Plover,1.2e-05
+Oligochaeta,Detritus,0.679588
+Other detrivors,Nephtys,0.223563
+Other detrivors,Other predatory inve,0.791135
+Other detrivors,Idotea chelipes,0.00152
+Other detrivors,Nereis diversicolor,0.169784
+Other detrivors,Carcinus maenas,0.31419
+Other detrivors,Crangon crangon,0.039654
+Other detrivors,Lumbrineris impatien,0.00156
+Other detrivors,Diopatra neapolitana,0.04402
+Other detrivors,Endofauna consumers,0.033447
+Other detrivors,Macrofauna predators,0.090997
+Other detrivors,Kentish Plover,6e-06
+Other detrivors,Ringed Plover,1.3e-05
+Other detrivors,Grey Plover,1.2e-05
+Other detrivors,Dunlin,1.1e-05
+Other detrivors,Detritus,3.510089
+Nephtys,Nephtys,0.005978
+Nephtys,Other predatory inve,0.018257
+Nephtys,Carcinus maenas,0.17455
+Nephtys,Crangon crangon,0.007931
+Nephtys,Endofauna consumers,0.000743
+Nephtys,Macrofauna predators,0.015166
+Nephtys,Kentish Plover,1e-06
+Nephtys,Ringed Plover,1e-06
+Nephtys,Grey Plover,1e-06
+Nephtys,Dunlin,1e-06
+Nephtys,Detritus,0.255771
+Other predatory inve,Nephtys,0.186501
+Other predatory inve,Other predatory inve,0.578137
+Other predatory inve,Idotea chelipes,0.00228
+Other predatory inve,Carcinus maenas,0.17455
+Other predatory inve,Crangon crangon,0.023792
+Other predatory inve,Lumbrineris impatien,0.00156
+Other predatory inve,Endofauna consumers,0.018581
+Other predatory inve,Macrofauna predators,0.030332
+Other predatory inve,Kentish Plover,2e-06
+Other predatory inve,Ringed Plover,1.2e-05
+Other predatory inve,Grey Plover,5e-06
+Other predatory inve,Dunlin,5e-06
+Other predatory inve,Detritus,1.416797
+Idotea chelipes,Other predatory inve,0.060857
+Idotea chelipes,Idotea chelipes,0.00836
+Idotea chelipes,Crangon crangon,0.043619
+Idotea chelipes,Lumbrineris impatien,0.00156
+Idotea chelipes,Macrofauna predators,0.030332
+Idotea chelipes,Trigla lucerna,0.00014
+Idotea chelipes,Grey Plover,1e-06
+Idotea chelipes,Detritus,0.15913
+Sphaeroma hookeri,Other predatory inve,0.006086
+Sphaeroma hookeri,Macrofauna predators,0.003033
+Sphaeroma hookeri,Detritus,0.009881
+Nereis diversicolor,Nephtys,0.050212
+Nereis diversicolor,Other predatory inve,0.212998
+Nereis diversicolor,Carcinus maenas,3.491003
+Nereis diversicolor,Crangon crangon,0.721699
+Nereis diversicolor,Endofauna consumers,0.033447
+Nereis diversicolor,Macrofauna predators,0.09403
+Nereis diversicolor,Pomatoschistus minut,0.002231
+Nereis diversicolor,Larus ridibundus,2.5e-05
+Nereis diversicolor,Kentish Plover,2e-05
+Nereis diversicolor,Ringed Plover,5.9e-05
+Nereis diversicolor,Grey Plover,3.2e-05
+Nereis diversicolor,Dunlin,3.7e-05
+Nereis diversicolor,Detritus,5.090613
+Carcinus maenas,Carcinus maenas,1.640771
+Carcinus maenas,Crangon crangon,0.15465
+Carcinus maenas,Endofauna consumers,0.006318
+Carcinus maenas,Macrofauna predators,0.831108
+Carcinus maenas,Trigla lucerna,0.042572
+Carcinus maenas,Pomatoschistus minut,0.000623
+Carcinus maenas,Larus ridibundus,6e-06
+Carcinus maenas,Larus fuscus,9.4e-05
+Carcinus maenas,Kentish Plover,1.6e-05
+Carcinus maenas,Grey Plover,1.4e-05
+Carcinus maenas,Dunlin,1.5e-05
+Carcinus maenas,Detritus,11.27304
+Crangon crangon,Carcinus maenas,0.3491
+Crangon crangon,Crangon crangon,0.007931
+Crangon crangon,Endofauna consumers,0.022298
+Crangon crangon,Macrofauna predators,0.303324
+Crangon crangon,Trigla lucerna,0.061057
+Crangon crangon,Pomatoschistus minut,0.009856
+Crangon crangon,Larus ridibundus,6e-06
+Crangon crangon,Detritus,0.832896
+Lumbrineris impatien,Nephtys,0.004782
+Lumbrineris impatien,Other predatory inve,0.121713
+Lumbrineris impatien,Carcinus maenas,0.06982
+Lumbrineris impatien,Crangon crangon,0.015862
+Lumbrineris impatien,Endofauna consumers,0.007804
+Lumbrineris impatien,Macrofauna predators,0.0091
+Lumbrineris impatien,Kentish Plover,1e-06
+Lumbrineris impatien,Ringed Plover,2e-06
+Lumbrineris impatien,Grey Plover,2e-06
+Lumbrineris impatien,Dunlin,1e-06
+Lumbrineris impatien,Detritus,0.394914
+Diopatra neapolitana,Nephtys,0.005978
+Diopatra neapolitana,Other predatory inve,0.048685
+Diopatra neapolitana,Carcinus maenas,0.03491
+Diopatra neapolitana,Crangon crangon,0.015862
+Diopatra neapolitana,Endofauna consumers,0.000372
+Diopatra neapolitana,Macrofauna predators,0.0091
+Diopatra neapolitana,Kentish Plover,1e-06
+Diopatra neapolitana,Grey Plover,2e-06
+Diopatra neapolitana,Dunlin,2e-06
+Diopatra neapolitana,Detritus,0.13663
+Microalgae and detri,Carcinus maenas,0.3491
+Microalgae and detri,Crangon crangon,0.019827
+Microalgae and detri,Macrofauna predators,0.248726
+Microalgae and detri,Larus ridibundus,3e-06
+Microalgae and detri,Detritus,3.779672
+Zooplankton consumer,Carcinus maenas,0.17455
+Zooplankton consumer,Crangon crangon,0.047585
+Zooplankton consumer,Macrofauna predators,0.181994
+Zooplankton consumer,Trigla lucerna,0.009803
+Zooplankton consumer,Larus ridibundus,3e-06
+Zooplankton consumer,Detritus,0.520519
+Endofauna consumers,Carcinus maenas,0.03491
+Endofauna consumers,Macrofauna predators,0.003033
+Endofauna consumers,Detritus,0.047257
+Macrofauna predators,Macrofauna predators,0.057632
+Macrofauna predators,Trigla lucerna,0.00126
+Macrofauna predators,Detritus,0.717316
+Trigla lucerna,Macrofauna predators,0.006066
+Trigla lucerna,Trigla lucerna,0.001342
+Trigla lucerna,Detritus,0.048592
+Pomatoschistus minut,Carcinus maenas,0.013964
+Pomatoschistus minut,Endofauna consumers,0.001672
+Pomatoschistus minut,Macrofauna predators,0.024266
+Pomatoschistus minut,Trigla lucerna,0.009383
+Pomatoschistus minut,Detritus,0.054473
+Larus ridibundus,Detritus,0.000408
+Larus fuscus,Detritus,0.00034
+Kentish Plover,Detritus,6.8e-05
+Ringed Plover,Detritus,6.8e-05
+Grey Plover,Detritus,6.8e-05
+Dunlin,Detritus,6.8e-05
+Detritus,Hydrobia ulvae,177.9375
+Detritus,Melita palmata,0.751004
+Detritus,Ampithoe ferox,1.307961
+Detritus,Gibulla,0.208464
+Detritus,Littorina,12.31905
+Detritus,Cyathura carinata,0.5684
+Detritus,Scrobicularia plana,24.93543
+Detritus,Cerastoderma edule,106.5077
+Detritus,Modiolus,0.187
+Detritus,Amage adspersa,0.092
+Detritus,Capitella capitata,0.072
+Detritus,Heteromastus filifor,7.32
+Detritus,Oligochaeta,1.655849
+Detritus,Other detrivors,8.700001
+Detritus,Nephtys,0.436366
+Detritus,Other predatory inve,1.015695
+Detritus,Idotea chelipes,0.133
+Detritus,Sphaeroma hookeri,0.038
+Detritus,Nereis diversicolor,12.12744
+Detritus,Carcinus maenas,11.03157
+Detritus,Crangon crangon,0.971517
+Detritus,Lumbrineris impatien,1.418354
+Detritus,Diopatra neapolitana,0.503083
+Detritus,Microalgae and detri,14.15232
+Detritus,Endofauna consumers,0.001487
+Detritus,Macrofauna predators,0.157729
+Detritus,Larus fuscus,4e-06
